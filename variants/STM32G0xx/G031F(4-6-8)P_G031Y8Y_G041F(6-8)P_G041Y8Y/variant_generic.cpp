@@ -13,7 +13,7 @@
 #if defined(ARDUINO_GENERIC_G031F4PX) || defined(ARDUINO_GENERIC_G031F6PX) ||\
     defined(ARDUINO_GENERIC_G031F8PX) || defined(ARDUINO_GENERIC_G031Y8YX) ||\
     defined(ARDUINO_GENERIC_G041F6PX) || defined(ARDUINO_GENERIC_G041F8PX) ||\
-    defined(ARDUINO_GENERIC_G041Y8YX)
+    defined(ARDUINO_GENERIC_G041Y8YX) || defined(ARDUINO_WEACT_G031F6)
 #include "pins_arduino.h"
 
 // Digital PinName array
